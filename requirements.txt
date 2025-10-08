@@ -1,0 +1,9 @@
+# Core automation dependencies
+selenium==4.15.0
+webdriver-manager==4.0.1
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Utility dependencies
+pathlib2==2.3.7; python_version < "3.4"
