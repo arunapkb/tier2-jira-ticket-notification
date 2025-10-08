@@ -1,0 +1,86 @@
+2025-10-08 14:31:25,754 - INFO - Success: Configuration validation passed
+2025-10-08 14:31:25,754 - INFO - Starting: Starting Jira Automation Workflow
+2025-10-08 14:31:25,754 - INFO - Setting up WebDriver...
+2025-10-08 14:31:25,754 - INFO - ====== WebDriver manager ======
+2025-10-08 14:31:27,645 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:31:28,444 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:31:29,030 - INFO - There is no [win64] chromedriver "141.0.7390.65" for browser google-chrome "141.0.7390" in cache
+2025-10-08 14:31:29,030 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:31:30,273 - INFO - WebDriver version 141.0.7390.65 selected
+2025-10-08 14:31:30,278 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:31:30,278 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:31:34,372 - INFO - Driver downloading response is 200
+2025-10-08 14:31:37,246 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:31:39,112 - INFO - Driver has been saved in cache [C:\Users\ArunkumarKulanthaive\.wdm\drivers\chromedriver\win64\141.0.7390.65]
+2025-10-08 14:31:39,152 - ERROR - ERROR:Workflow failed: [WinError 193] %1 is not a valid Win32 application
+2025-10-08 14:32:29,881 - INFO - Success: Configuration validation passed
+2025-10-08 14:32:29,881 - INFO - Starting: Starting Jira Automation Workflow
+2025-10-08 14:32:29,881 - INFO - Setting up WebDriver...
+2025-10-08 14:32:29,882 - INFO - ====== WebDriver manager ======
+2025-10-08 14:32:32,244 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:32:32,878 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:32:33,475 - INFO - There is no [win64] chromedriver "141.0.7390.65" for browser google-chrome "141.0.7390" in cache
+2025-10-08 14:32:33,475 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:32:34,914 - INFO - WebDriver version 141.0.7390.65 selected
+2025-10-08 14:32:34,919 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:32:34,919 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:32:38,929 - INFO - Driver downloading response is 200
+2025-10-08 14:32:40,838 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:32:41,555 - INFO - Driver has been saved in cache [C:\Users\ArunkumarKulanthaive\.wdm\drivers\chromedriver\win64\141.0.7390.65]
+2025-10-08 14:32:41,605 - ERROR - ERROR:Workflow failed: [WinError 193] %1 is not a valid Win32 application
+2025-10-08 14:33:09,573 - INFO - Success: Configuration validation passed
+2025-10-08 14:33:09,573 - INFO - Starting: Starting Jira Automation Workflow
+2025-10-08 14:33:09,573 - INFO - Setting up WebDriver...
+2025-10-08 14:33:09,573 - INFO - ====== WebDriver manager ======
+2025-10-08 14:33:11,364 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:33:11,976 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:33:12,621 - INFO - There is no [win64] chromedriver "141.0.7390.65" for browser google-chrome "141.0.7390" in cache
+2025-10-08 14:33:12,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:33:13,905 - INFO - WebDriver version 141.0.7390.65 selected
+2025-10-08 14:33:13,909 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:33:13,909 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:33:18,131 - INFO - Driver downloading response is 200
+2025-10-08 14:33:19,965 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:33:20,627 - INFO - Driver has been saved in cache [C:\Users\ArunkumarKulanthaive\.wdm\drivers\chromedriver\win64\141.0.7390.65]
+2025-10-08 14:33:20,678 - ERROR - ERROR:Workflow failed: [WinError 193] %1 is not a valid Win32 application
+2025-10-08 14:34:12,528 - INFO - Success: Configuration validation passed
+2025-10-08 14:34:12,528 - INFO - Starting: Starting Jira Automation Workflow
+2025-10-08 14:34:12,528 - INFO - Setting up WebDriver...
+2025-10-08 14:34:12,528 - INFO - ====== WebDriver manager ======
+2025-10-08 14:34:13,620 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:34:14,127 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:34:14,673 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:34:16,095 - INFO - WebDriver version 141.0.7390.65 selected
+2025-10-08 14:34:16,100 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:34:16,100 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:34:20,163 - INFO - Driver downloading response is 200
+2025-10-08 14:34:22,499 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:34:23,068 - INFO - Driver has been saved in cache [C:\Users\ArunkumarKulanthaive\.wdm\drivers\chromedriver\win64\141.0.7390.65]
+2025-10-08 14:34:23,125 - ERROR - ERROR:Workflow failed: [WinError 193] %1 is not a valid Win32 application
+2025-10-08 14:35:11,561 - INFO - Success: Configuration validation passed
+2025-10-08 14:35:11,562 - INFO - Starting: Starting Jira Automation Workflow
+2025-10-08 14:35:11,562 - INFO - Setting up WebDriver...
+2025-10-08 14:35:11,562 - INFO - ====== WebDriver manager ======
+2025-10-08 14:35:17,101 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:35:18,312 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:35:20,936 - INFO - Driver [C:\Users\ArunkumarKulanthaive\.wdm\drivers\chromedriver\win64\141.0.7390.65\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-10-08 14:35:20,942 - ERROR - ERROR:Workflow failed: [WinError 193] %1 is not a valid Win32 application
+2025-10-08 14:35:47,721 - INFO - Success: Configuration validation passed
+2025-10-08 14:35:47,721 - INFO - Starting: Starting Jira Automation Workflow
+2025-10-08 14:35:47,722 - INFO - Setting up WebDriver...
+2025-10-08 14:35:47,722 - INFO - ====== WebDriver manager ======
+2025-10-08 14:35:49,802 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:35:50,408 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:35:50,959 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:35:52,236 - INFO - WebDriver version 141.0.7390.65 selected
+2025-10-08 14:35:52,241 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:35:52,241 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.65/win32/chromedriver-win32.zip
+2025-10-08 14:35:52,910 - INFO - Driver downloading response is 200
+2025-10-08 14:35:54,597 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-08 14:35:55,278 - INFO - Driver has been saved in cache [C:\Users\ArunkumarKulanthaive\.wdm\drivers\chromedriver\win64\141.0.7390.65]
+2025-10-08 14:36:03,880 - INFO - Authenticating with JumpCloud...
+2025-10-08 14:36:24,086 - ERROR - ERROR:Workflow failed: JumpCloud authentication failed
+2025-10-08 14:36:24,086 - INFO - Cleaning up...
+2025-10-08 14:36:48,164 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B525F3890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6679fda1404a341fa4ed7a739027b49a
+2025-10-08 14:36:52,226 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B525F3260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6679fda1404a341fa4ed7a739027b49a
+2025-10-08 14:36:56,318 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B525F3050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6679fda1404a341fa4ed7a739027b49a
